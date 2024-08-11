@@ -1,6 +1,7 @@
-.Net ile kütüphane otomasyonu.
-- Yeni kitaplar ekleyebilirsiniz.
-- Kitapları güncelleyebilirsiniz.
-- Kitapları silebilir ve değiştirebilirsiniz.
-- Kitapları kimlerin düzenleyebileceğini belirleyebilirsiniz.
-- Listlere ulaşarak belirli bir kaynaktaki verileri çekerek bu otomasyonu kullanabilirsiniz.
+Library automation with .Net.
+
+You can add new books.
+You can update books.
+You can delete and change books.
+You can determine who can edit books.
+You can use this automation by accessing lists and pulling data from a specific source.
